@@ -1,17 +1,19 @@
-Redes Sociais
-<br> </br>
+<h2>Redes Sociais</h2>
 <div>
   <a href="https://www.instagram.com/v.h.t.c" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5571987881607?text=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="mailto:victor.tuy@hotmail.com?subject=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es." target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.github.com/v.h.t.c" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <p href="https://vhtc.netlify.app/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></p>
-  
-   	
+  <br> </br>
 </div>
+<h2>Site Portfólio  </h2>
+<div>
+  <a href="https://vhtc.netlify.app/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
+</div>  
+   	
+
 <br> </br>
-Linguagens e Softwares
-<br> </br>
+<h2>Linguagens e Softwares</h2>
 <div style:"display: inline_block">
     <img align="center" alt="ReactJs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="Javascript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -35,8 +37,8 @@ Linguagens e Softwares
   
   
 </div>
-
-##
+<br> </br>
+<h2>Stats</h2>
 
 <div>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vhtc&show_icons=true&theme=radical" />
