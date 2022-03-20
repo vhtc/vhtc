@@ -44,5 +44,3 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vhtc&show_icons=true&theme=radical" />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhtc&layout=compact&theme=radical" />
 </div>
-
-<h3 align="center">Cheque meus repositórios abaixo, seu feedback é essencial! ⬇️</h3>
