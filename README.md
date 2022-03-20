@@ -19,11 +19,19 @@ Linguagens e Softwares
   <img align="center" alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="JAVA" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="CSHARP" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="ANDROID" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img align="center" alt="DELPHI" height="30" src="https://vhtc.netlify.app/softwares/delphi.png" />
+  <img align="center" alt="MAYA" height="30" src="https://vhtc.netlify.app/softwares/maya.png" />
+  <img align="center" alt="PHOTOSHOP" height="30" src="https://vhtc.netlify.app/softwares/photoshop.png" />
+  <img align="center" alt="HOMESTYLER" height="30" src="https://vhtc.netlify.app/softwares/homestyler.png" />
+  <img align="center" alt="UNITY" height="30" src="https://vhtc.netlify.app/softwares/unity.png" />
+  <img align="center" alt="UNREAL" height="30" src="https://vhtc.netlify.app/softwares/unreal.png" />
+  <img align="center" alt="CONSTRUCT" height="30" src="https://vhtc.netlify.app/softwares/construct.png" />
+  <img align="center" alt="SQLITE" height="30" src="https://vhtc.netlify.app/softwares/sqlite.png" />
+  <img align="center" alt="MYSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="ANDROID" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="ANDROID" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
-
-
-  
- 
   
   
 </div>
