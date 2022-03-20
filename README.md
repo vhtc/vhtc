@@ -1,16 +1,16 @@
 <h2>Redes Sociais</h2>
 <div>
-  <a href="https://www.instagram.com/v.h.t.c" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5571987881607?text=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="mailto:victor.tuy@hotmail.com?subject=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es." target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.github.com/v.h.t.c" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCh7RtjZyv-05IzHYN-8O3Nw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/v.h.t.c" target="_blank"><img width="40px" height="40px" src="https://vhtc.netlify.app/redes_sociais/insta.png" target="_blank"></a>
+  <a href="https://wa.me/5571987881607?text=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es." target="_blank"><img width="40px" height="40px" src="https://vhtc.netlify.app/redes_sociais/wtts.png" target="_blank"></a>
+  <a href="https://www.github.com/v.h.t.c" target="_blank"><img width="40px" height="40px" src="https://vhtc.netlify.app/redes_sociais/git.png" target="_blank"></a>
+  <a href="mailto:victor.tuy@hotmail.com?subject=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es." target="_blank"><img width="40px" height="40px" src="https://vhtc.netlify.app/redes_sociais/email.png" target="_blank"></a>
   
   <br> </br>
 </div>
 <h2>Site Portfólio  </h2>
 <div>
-  <a href="https://vhtc.netlify.app/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
+  <a href="https://vhtc.netlify.app/" target="_blank"><img width="40px" height="40px" src="https://vhtc.netlify.app/redes_sociais/site.png" target="_blank"></a>
+  
 </div>  
    	
 
