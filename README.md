@@ -5,6 +5,7 @@
   <a href="https://www.github.com/v.h.t.c" target="_blank"><img width="40px" height="40px" src="https://vhtc.netlify.app/redes_sociais/git.png" target="_blank"></a>
   <a href="mailto:victor.tuy@hotmail.com?subject=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es." target="_blank"><img width="40px" height="40px" src="https://vhtc.netlify.app/redes_sociais/email.png" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCh7RtjZyv-05IzHYN-8O3Nw" target="_blank"><img width="45px" height="40px" src="https://vhtc.netlify.app/redes_sociais/youtube.png" target="_blank"></a>
+  <a href="https://www.behance.net/victortuy" target="_blank"><img width="45px" height="40px" src="https://cdn-images-1.medium.com/max/1200/1*nwC9IhBwXNLV1JgwEgetQw.jpeg" target="_blank"></a>
   
   <br> </br>
 </div>
