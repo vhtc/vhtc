@@ -47,4 +47,4 @@ src="https://img.shields.io/github/followers/vhtc?logo=github&style=for-the-badg
   </p>
 
 ### Stats
-<img style='width:750px;' src="https://wakatime.com/share/@vhtc/26417adc-ad03-4f1f-ab4b-127b192dd710.svg">
+<img style='width:500px;' src="https://wakatime.com/share/@vhtc/26417adc-ad03-4f1f-ab4b-127b192dd710.svg">
