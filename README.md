@@ -14,7 +14,7 @@ Analista de Sistemas - Força Aérea Brasileira
 <a href="https://www.github.com/vhtc" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vhtc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skillls
+### Skills
 
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -47,4 +47,4 @@ src="https://img.shields.io/github/followers/vhtc?logo=github&style=for-the-badg
   </p>
 
 ### Stats
-<img style='width:500px;' src="https://wakatime.com/share/@vhtc/26417adc-ad03-4f1f-ab4b-127b192dd710.svg">
+<img style='width:500px;' src="https://wakatime.com/share/@vhtc/bfaf4f1d-190d-4c0e-92e8-5bb5efd103e7.svg">
