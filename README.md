@@ -46,5 +46,5 @@ src="https://img.shields.io/github/followers/vhtc?logo=github&style=for-the-badg
   <a href="https://www.linkedin.com/in/tuyvhtc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
   </p>
 
-### Stats last 48 hours
+### Stats last week
 <img style='width:500px;' src="https://wakatime.com/share/@vhtc/bfaf4f1d-190d-4c0e-92e8-5bb5efd103e7.svg">
