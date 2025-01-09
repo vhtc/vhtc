@@ -47,5 +47,5 @@ src="https://img.shields.io/github/followers/vhtc?logo=github&style=for-the-badg
   </p>
 
 ### Stats last month
-<a href="https://wakatime.com/@05ad1e3e-ea06-43b6-a4b9-07a099b2c246"><img src="https://wakatime.com/badge/user/05ad1e3e-ea06-43b6-a4b9-07a099b2c246.svg" /></a>
+<img src="https://wakatime.com/badge/user/05ad1e3e-ea06-43b6-a4b9-07a099b2c246.svg" />
 <img style='width:500px;' src="https://wakatime.com/share/@vhtc/bfaf4f1d-190d-4c0e-92e8-5bb5efd103e7.svg">
