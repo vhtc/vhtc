@@ -28,6 +28,7 @@ src="https://img.shields.io/github/followers/vhtc?logo=github&style=for-the-badg
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://crack4all.com/wp-content/uploads/2017/11/4ad54758b77c22ab58728ea0d561a9c9.png" width="36" height="36" alt="Delphi7" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/255832/sql.svg" width="36" height="36" alt="Sql" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://vhtc.netlify.app/softwares/sqlite.png" width="36" height="36" alt="Sqlite" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="Mysql" /></a>
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
