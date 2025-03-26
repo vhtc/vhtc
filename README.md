@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Tuy
-===========================================================================================================================================
+---------------------------------------------
 
 Analista de Sistemas - Força Aérea Brasileira
 ---------------------------------------------
@@ -15,6 +15,7 @@ Analista de Sistemas - Força Aérea Brasileira
 src="https://img.shields.io/github/followers/vhtc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
+---------------------------------------------
 
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -40,6 +41,7 @@ src="https://img.shields.io/github/followers/vhtc?logo=github&style=for-the-badg
   </p>
 
 ### Socials
+---------------------------------------------
 
 <p align="left"> 
   <a href="https://www.github.com/vhtc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"/><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture></a>
@@ -48,5 +50,7 @@ src="https://img.shields.io/github/followers/vhtc?logo=github&style=for-the-badg
   </p>
 
 ### Stats last month
-<img src="https://wakatime.com/badge/user/05ad1e3e-ea06-43b6-a4b9-07a099b2c246.svg" />
-<img style='width:500px;' src="https://wakatime.com/share/@vhtc/bfaf4f1d-190d-4c0e-92e8-5bb5efd103e7.svg">
+---------------------------------------------
+![Vhtc's WakaTime Hours](https://wakatime.com/badge/user/05ad1e3e-ea06-43b6-a4b9-07a099b2c246.svg)
+
+![Vhtc's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vhtc\&layout=compact)
